@@ -8,3 +8,11 @@ Aquí recibiré sus trabajos.
 
 Equipo OLE System Print
 https://github.com/iscangelmartinez/Carpeta-Ingenieriadesoftware
+
+Equipo CAP Sitio Web
+Comoto Josue
+Chan Irvin
+Jimenez PAblo
+Rodriguez Gabriel
+Torres Ricardo
+https://github.com/richitorres
